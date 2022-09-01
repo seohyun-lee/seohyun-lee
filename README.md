@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun-lee%2Fhit-counter&count_bg=%2345B8AC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ## Information
-- Ewha Womans University HOKMA College of General Education
+- Ewha Womans University HOKMA College of General Education Class of 2026 (22학번)
 - Learning programming
    
 ## Language
