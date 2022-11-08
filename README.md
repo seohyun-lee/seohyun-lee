@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun-lee)](https://github.com/seohyun-lee/github-readme-stats)
  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={leeseohyun})](https://solved.ac/{leeseohyun})
 
 <!--
 **seohyun-lee/Seohyun-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
