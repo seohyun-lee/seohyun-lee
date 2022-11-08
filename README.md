@@ -9,9 +9,6 @@
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
 ***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun-lee)](https://github.com/seohyun-lee/github-readme-stats)
- 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={leeseohyun})](https://solved.ac/{leeseohyun})
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={leeseohyun})](https://solved.ac/{leeseohyun})
