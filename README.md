@@ -10,8 +10,6 @@
 ## Language
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=ffdd54"> <img src="https://img.shields.io/badge/Unity-333333?style=flat-square&amp;logo=Unity&amp;logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun-lee)](https://github.com/seohyun-lee/github-readme-stats)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leeseohyun)](https://solved.ac/leeseohyun)
 
