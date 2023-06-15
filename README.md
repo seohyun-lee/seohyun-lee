@@ -3,9 +3,9 @@
   
 ## Information
 - 이화여자대학교 컴퓨터공학전공 22학번
-- KING 12기 (2022.3~2023.2)
-- 알튜비튜 3기 초급, 중급 수료 (2022.9~2022.12)
+- KING 12기 (2022.3~2023.2)- 
 - KING 13기 부회장 (2023.3~)
+- 알튜비튜 3기 초급, 중급 수료 (2022.9~2022.12)
    
 ## Language
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=ffdd54"> <img src="https://img.shields.io/badge/Unity-333333?style=flat-square&amp;logo=Unity&amp;logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
