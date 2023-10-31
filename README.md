@@ -6,6 +6,9 @@
 - KING 12기 (2022.3~2023.2)
 - KING 13기 부회장 (2023.3~)
 - 알튜비튜 3기 초급, 중급 수료 (2022.9~2022.12)
+- UNIDEV(전국 대학교 게임 개발 동아리 연합회) 홍보부장 (2023.5~)
+- GDSC Ewha 5기 Server 파트 멤버(2023.9~)
+- 머신러닝 스터디 AIchemist 1기 (2023.9~)
    
 ## Language
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-333333?style=flat-square&amp;logo=Unity&amp;logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
