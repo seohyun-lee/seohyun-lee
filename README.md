@@ -4,14 +4,14 @@
 ## Information
 - 이화여자대학교 컴퓨터공학전공 22학번
 - KING 12기 (2022.3~2023.2)
-- KING 13기 부회장 (2023.3~)
-- 알튜비튜 3기 초급, 중급 수료 (2022.9~2022.12)
-- UNIDEV(전국 대학교 게임 개발 동아리 연합회) 홍보부장 (2023.5~)
+- KING 13기 부회장 (2023.3~2024.2)
+- UNIDEV(전국 대학교 게임 개발 동아리 연합회) 홍보부장 (2023.5~2024.2)
 - GDSC Ewha 5기 Server파트 멤버 (2023.9~)
-- 머신러닝 스터디 AIchemist 1기 (2023.9~)
+- 머신러닝 스터디 AIchemist 1기 (2023.9~2024.1)
    
 ## Tech Stack
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-333333?style=flat-square&amp;logo=Unity&amp;logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"> | <img src="https://img.shields.io/badge/Unity-333333?style=flat-square&amp;logo=Unity&amp;logoColor=white"> <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat-square"> | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leeseohyun)](https://solved.ac/leeseohyun)
