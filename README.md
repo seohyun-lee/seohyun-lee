@@ -1,5 +1,5 @@
 ## Seohyun Lee | 이서현
-> 이화여자대학교 컴퓨터공학전공 22학번
+> EWHA Computer Science & Engineering 22
 ### Backend Developer
 - Contact : applemint2003@gmail.com
 - Blog : https://hereishyun.tistory.com
@@ -12,7 +12,8 @@
 
 ### 🎯 Experiences
 #### 2024
-- GDSC Ewha 5th Server Member (2023.9~현재)
+- EFUB 4th Back-End Lead (2024.3~ing)
+- GDSC Ewha 5th Server Member (2023.9~ing)
 - 제1회 눈꽃톤 우수상 (2024.1)
 - 2024 NDM 게임전시회 장려상 (2024.2)
 #### 2023
