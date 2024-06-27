@@ -3,6 +3,7 @@
 ### Backend Developer
 - Contact : applemint2003@gmail.com
 - Blog : https://hereishyun.tistory.com
+- Portfolio : https://www.notion.so/leeseohyun/Seohyun-Lee-6594f9c8b0e34f46a2fbafdc811c2b4d
 
 ### ⚙️ Stack
 - Mostly interested in: <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
