@@ -3,7 +3,6 @@
 ### Backend Developer
 - Contact : applemint2003@gmail.com
 - Blog : https://hereishyun.tistory.com
-- Portfolio : https://www.notion.so/leeseohyun/Seohyun-Lee-6594f9c8b0e34f46a2fbafdc811c2b4d
 
 ### ⚙️ Stack
 - Mostly interested in: <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
@@ -14,7 +13,7 @@
 ### 🎯 Experiences
 #### 2024
 - EFUB 4th Back-End Lead (2024.3~ing)
-- GDSC Ewha 5th Server Member (2023.9~ing)
+- GDSC Ewha 5th Server Member (2023.9~2024.6)
 - 제1회 눈꽃톤 우수상 (2024.1)
 - 2024 NDM 게임전시회 장려상 (2024.2)
 #### 2023
