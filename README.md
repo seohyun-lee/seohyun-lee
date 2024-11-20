@@ -36,4 +36,12 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leeseohyun)](https://solved.ac/leeseohyun)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun-lee%2Fhit-counter&count_bg=%2345B8AC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun-lee&show_icons=true&theme=ambient_gradient)
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=seohyun-lee&show_icons=true&theme=ambient_gradient" alt="GitHub stats" style="height: 195px;" />
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/seohyun-lee?pet-id=646916942764177944" alt="GitAnimals" style="height: 195px;" />
+  </a>
+</div>
+</a>
+  
