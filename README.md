@@ -1,8 +1,8 @@
 ## Seohyun Lee | 이서현
 > EWHA Computer Science & Engineering 22
 ### Backend Developer
-- Contact : applemint2003@gmail.com
-- Blog : https://hereishyun.tistory.com
+- Contact: applemint2003@gmail.com
+- Blog: https://hereishyun.tistory.com
 
 ### ⚙️ Stack
 - Mostly interested in: <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
