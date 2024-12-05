@@ -14,11 +14,11 @@
 
 ### 🎯 Experiences
 #### 2024
-- EFUB 4기 Back-End Lead (2024.3~ing)
+- EFUB 4기 Back-End Lead (2024.3~2024.12)
 - 제2회 Unid-thon 참여 (2024.11)
 - LG Aimers 5기 수료 (2024.7~2024.8)
 - 2024 하나 소셜벤처 유니버시티 수료 (2024.7)
-- GDSC Ewha 5기 Server Member (2023.9~2024.6)
+- GDSC Ewha(현 GDGoC Ewha) 5기 Server Member (2023.9~2024.6)
 #### 2023
 - KING 게임개발동아리 13기 부회장 (2023.3~2024.2) 
 - UNIDEV 전국 대학교 게임 개발 동아리 연합회 홍보부장 (2023.5~2024.2)
