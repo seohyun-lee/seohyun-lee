@@ -28,16 +28,19 @@
 - KING 게임개발동아리 12기 (2022.3~2023.2)
 - 알튜비튜 3기 초급, 중급 수료
 
-### 🏆 Certifications & Awards
+### 🏆 Awards
 - 2024 이화여대 인공지능대학 아이디어 공모전-개발분야 우수상, 2024학년도 제2학기 학생 학술 활동 지원 선정 'SeQR' (2024.8~2024.12)
 - 제22회 TOPCIT 특별상 - IT여성기업인협회장상 (2024.11)
-- TOPCIT Level 4 (2024.11)
 - EFUB 4기 SWS 프로젝트 1등상 'SongPin' (2024.3~2024.8)
 - 2024 NDM 게임전시회 장려상, 2024학년도 제1학기 학생 학술 활동 지원 선정 'Muzik Is My Life(무직은 내 삶이다)' (2023.12~2024.6)
 - 제1회 눈꽃톤 우수상 (2024.1)
 - 2023 NDM 게임전시회 우수상, 2023학년도 제1학기 학생 학술 활동 지원 선정 'COY: 사랑의 기술' (2022.12~2023.6)
 - 제1회 UNIJAM 게임잼 최우수상 (2023.1)
-    
+
+### 📋 Certifications
+- SQLD
+- TOPCIT Level 4
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leeseohyun)](https://solved.ac/leeseohyun)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun-lee%2Fhit-counter&count_bg=%2345B8AC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
