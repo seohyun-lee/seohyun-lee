@@ -3,6 +3,7 @@
 ### Backend Developer 🚀
 🌐 **Tech Blog**: [hereishyun.tistory.com](https://hereishyun.tistory.com)  
 📧 **Contact**: [applemint2003@gmail.com](mailto:applemint2003@gmail.com)  
+🔗 **LinkedIn**: https://www.linkedin.com/in/hereishyun/
 
 ---
 
