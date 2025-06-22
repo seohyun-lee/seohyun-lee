@@ -50,7 +50,7 @@
 
 ### 📋 Certifications
 - SQLD
-- TOPCIT Level 4
+- 정보처리기사
 
 ---
 
