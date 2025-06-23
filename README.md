@@ -19,20 +19,19 @@
 
 ### 🎯 Experiences
 #### 2025
-- 2025 OSSCA(Open Source Software Contribution Academy) 체험형-1차 [Git 및 PR Agent] 프로젝트 멘티
-- AWS Cloud Clubs EWHA 3rd Member (2025.3~)
+- 2025 OSSCA(Open Source Software Contribution Academy) 체험형 [Git 및 PR Agent] 프로젝트 수료
+- AWS Cloud Clubs EWHA 3rd Member (2025.3-2025.6)
 #### 2024
-- EFUB 4th Back-End Lead (2024.3~2024.12)
-- LG Aimers 5기 수료 (2024.7~2024.8)
+- EFUB 4th Back-End Lead (2024.3-2024.12)
 - 2024 하나 소셜벤처 유니버시티 수료 (2024.7)
-- GDSC Ewha(현 GDGoC Ewha) 5th Server Member (2023.9~2024.6)
+- GDSC Ewha(현 GDGoC Ewha) 5th Server Member (2023.9-2024.6)
 #### 2023
-- KING 게임개발동아리 13기 부회장 (2023.3~2024.2) 
-- 전국대학생게임개발동아리연합(UNIDEV) 창립 멤버 및 홍보부장 (2023.5~2024.2)
-- AIchemist 머신러닝 스터디 1기 (2023.9~2024.1)
+- KING 게임개발동아리 13기 부회장 (2023.3-2024.2) 
+- UNIDEV(전국대학생게임개발동아리연합) 창립 멤버 및 홍보부장 (2023.5-2024.2)
+- AIchemist 머신러닝 스터디 1기 (2023.9-2024.1)
 - 42서울 10기 Cadet (2023.7-8, 2023.10-12)
 #### 2022
-- KING 게임개발동아리 12기 (2022.3~2023.2)
+- KING 게임개발동아리 12기 (2022.3-2023.2)
 - 알튜비튜 3기 초급, 중급 수료
 
 ---
