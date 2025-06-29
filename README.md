@@ -20,7 +20,7 @@
 ### 🎯 Experiences
 #### 2025
 - 2025 OSSCA(Open Source Software Contribution Academy) 체험형 [Git 및 PR Agent] 프로젝트 수료
-- AWS Cloud Clubs EWHA 3rd Member (2025.3-2025.6)
+- AWS Cloud Club EWHA 3rd Member (2025.3-2025.6)
 #### 2024
 - EFUB 4th Back-End Lead (2024.3-2024.12)
 - 2024 하나 소셜벤처 유니버시티 수료 (2024.7)
