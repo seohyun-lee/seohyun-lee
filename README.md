@@ -1,6 +1,7 @@
 ## Seohyun Lee | 이서현
 > EWHA Computer Science & Engineering 22
 ### Backend Developer 🚀
+🩵 **Projects**: [프로젝트 정리 모음](https://leeseohyun.notion.site/221a3cf82dd280eab2b3ffce6ca69adb?source=copy_link)  
 🌐 **Tech Blog**: [hereishyun.tistory.com](https://hereishyun.tistory.com)  
 📧 **Contact**: [applemint2003@gmail.com](mailto:applemint2003@gmail.com)  
 🔗 **LinkedIn**: https://www.linkedin.com/in/hereishyun/
@@ -9,10 +10,10 @@
 
 ### ⚙️ Tech Stack
 **Main Interests**  
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
 <br></br> 
 **Other Interests**  
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Unity-333333?style=flat-square&amp;logo=Unity&amp;logoColor=white"> <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat-square">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
 ---
@@ -20,7 +21,7 @@
 ### 🎯 Experiences
 #### 2025
 - 2025 OSSCA(Open Source Software Contribution Academy) 체험형 [Git 및 PR Agent] 프로젝트 수료
-- AWS Cloud Club EWHA 3rd Member (2025.3-2025.6)
+- AWS Cloud Clubs EWHA 3rd Member (2025.3-2025.6)
 #### 2024
 - EFUB 4th Back-End Lead (2024.3-2024.12)
 - 2024 하나 소셜벤처 유니버시티 수료 (2024.7)
@@ -29,7 +30,7 @@
 - KING 게임개발동아리 13기 부회장 (2023.3-2024.2) 
 - UNIDEV(전국대학생게임개발동아리연합) 창립 멤버 및 홍보부장 (2023.5-2024.2)
 - AIchemist 머신러닝 스터디 1기 (2023.9-2024.1)
-- 42서울 10기 Cadet (2023.7-8, 2023.10-12)
+- 42 Seoul 10기 Cadet (2023.7-8, 2023.10-12)
 #### 2022
 - KING 게임개발동아리 12기 (2022.3-2023.2)
 - 알튜비튜 3기 초급, 중급 수료
@@ -50,6 +51,7 @@
 ### 📋 Certifications
 - SQLD
 - 정보처리기사
+- TOPCIT Level 4 (720점)
 
 ---
 
