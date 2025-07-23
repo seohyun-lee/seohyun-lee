@@ -1,10 +1,7 @@
 ## Seohyun Lee | 이서현
 > EWHA Computer Science & Engineering 22
 ### Backend Developer 🚀
-🩵 **Projects**: [프로젝트 정리 모음](https://leeseohyun.notion.site/221a3cf82dd280eab2b3ffce6ca69adb?source=copy_link)  
-🌐 **Tech Blog**: [hereishyun.tistory.com](https://hereishyun.tistory.com)  
-📧 **Contact**: [applemint2003@gmail.com](mailto:applemint2003@gmail.com)  
-🔗 **LinkedIn**: https://www.linkedin.com/in/hereishyun/
+📧 **Contact**: [leeseohyundev@gmail.com](mailto:leeseohyundev@gmail.com)
 
 ---
 
@@ -20,8 +17,8 @@
 
 ### 🎯 Experiences
 #### 2025
-- 2025 OSSCA(Open Source Software Contribution Academy) 체험형 [Git 및 PR Agent] 프로젝트 수료
-- AWS Cloud Clubs EWHA 3rd Member (2025.3-2025.6)
+- 2025 OSSCA(Open Source Software Contribution Academy) 체험형 [Git 및 PR Agent] 프로젝트 수료 (2025.7)
+- AWS Cloud Clubs EWHA 3rd Member (2025.3-2025.8)
 #### 2024
 - EFUB 4th Back-End Lead (2024.3-2024.12)
 - 2024 하나 소셜벤처 유니버시티 수료 (2024.7)
