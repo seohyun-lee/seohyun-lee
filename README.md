@@ -54,10 +54,11 @@
 ---
 
 ### 📊 Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seohyun-lee)](https://git.io/streak-stats)
+<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leeseohyun)](https://solved.ac/leeseohyun)
-
-  
+<br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seohyun-lee&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/seohyun-lee?pet-id=719194817415267983"
