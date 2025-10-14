@@ -1,5 +1,4 @@
 ## Seohyun Lee | 이서현
-> EWHA Computer Science & Engineering 22
 
 📧 **Contact**: [leeseohyundev@gmail.com](mailto:leeseohyundev@gmail.com)
 
